@@ -1,0 +1,1366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zions thankfull ecchoes from the clifts of Ireland. Or the little Church of Christ in Ireland, warbling out her humble and gratefull addresses to her elder sister in England: and in particular, to the Parliament, to his Excellency, and to his army, or that part assigned to her assistance, now in her low, yet hopefull condition.</title>
+            <author>Calver, Edward, fl. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79269</idno>
+            <idno type="STC">Wing C318</idno>
+            <idno type="STC">Thomason E562_19</idno>
+            <idno type="STC">ESTC R206135</idno>
+            <idno type="EEBO-CITATION">99865314</idno>
+            <idno type="PROQUEST">99865314</idno>
+            <idno type="VID">117553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117553)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Zions thankfull ecchoes from the clifts of Ireland. Or the little Church of Christ in Ireland, warbling out her humble and gratefull addresses to her elder sister in England: and in particular, to the Parliament, to his Excellency, and to his army, or that part assigned to her assistance, now in her low, yet hopefull condition.</title>
+                  <author>Calver, Edward, fl. 1649.</author>
+               </titleStmt>
+               <extent>[4], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Harper at the Bible and Harp in Smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The messengers humble presentation" signed: Edvvard Calver.</note>
+                  <note>In verse.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Ireland --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117553:1" rendition="simple:additions"/>
+            <p>ZIONS thankfull Ecchoes from the Clifts of <hi>IRELAND.</hi>
+            </p>
+            <p>Or the little Church of Chriſt in <hi>Ireland,</hi> war<g ref="char:EOLhyphen"/>bling out her humble and gracefull addreſſes to her Elder Siſter in England: And in particular, To the Parliament, to his Excellency, and to his Ar<g ref="char:EOLhyphen"/>my, or that part aſſigned to her aſſiſtance, now in her low, yet hopefull Condition.</p>
+            <figure/>
+            <p>Printed for <hi>Richard Harper</hi> at the Bible and Harp in Smithfield. 1648.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:117553:2"/>
+            <pb facs="tcp:117553:2"/>
+            <head>The Meſſengers humble Preſentation.</head>
+            <lg>
+               <l>REnowned Chriſtians, what I heere preſent,</l>
+               <l>As from a perſecuted Siſter ſent</l>
+               <l>By my rude hand, to your judicious eye,</l>
+               <l>Pleaſe to accept, and graciouſly ſurvey:</l>
+            </lg>
+            <lg>
+               <l>'Tis neither hyperbolicall; nor newes</l>
+               <l>From either Turkes, Antipodes, or Iewes;</l>
+               <l>But Ecchoes ſounding, what you ought to know,</l>
+               <l>The ſtate of <hi>Zion</hi> in a Land you owe:</l>
+            </lg>
+            <lg>
+               <l>Her ſighs, her ſuits, &amp; in the ſame made known</l>
+               <l>Her thankful ſpirit for your kindnes ſhown,</l>
+               <l>And hopes of comfort by you late aſsign'd,</l>
+               <l>And bleſt aſsiſtance to relieve her minde.</l>
+            </lg>
+            <lg>
+               <l>As in this humble tender you may view</l>
+               <l>In her owne language; Characters full true;</l>
+               <l>Which <hi>I</hi> her ſervant, though the moſt unmeet;</l>
+               <l>Am thus injoyn'd to offer at your feet,</l>
+               <l>Which Heavens make powerfull in your hearts, ſo be't.</l>
+            </lg>
+            <closer>
+               <signed>EDVVARD CALVER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb facs="tcp:117553:3"/>
+            <pb n="1" facs="tcp:117553:3"/>
+            <head>
+               <hi>Zions</hi> thankefull Ecchoes from the Clifts of <hi>IRELAND.</hi>
+            </head>
+            <div type="poem">
+               <head>To her Elder Siſter in England.</head>
+               <lg>
+                  <l>OH, thou my Engliſh eldeſt ſiſter deare,</l>
+                  <l>Who haſt tooke notice of my troubles heere,</l>
+                  <l>Theſe times of ſorrow, and haſt had a heart</l>
+                  <l>To yeeld me ſuccour, (which thou haſt in part,)</l>
+                  <l>But wanted power to make thy purpoſe knowne,</l>
+                  <l>By reaſon of diſtractions of thine owne.</l>
+               </lg>
+               <lg>
+                  <l>Thou haſt againe recal'd my cares to minde,</l>
+                  <l>And ſuch aſſiſtance to my ayd aſſignde,</l>
+                  <l>That, if that malice doe not it prevent,</l>
+                  <l>I may be happy in your bleſt content.</l>
+               </lg>
+               <lg>
+                  <l>But thou that haſt this bleſſed helpe aſſignd,</l>
+                  <l>Wilt not, I ſee, by a contrary winde</l>
+                  <l>Be beaten off thy purpoſe, when I ſee</l>
+                  <l>The winds againe doe with thy will agree.</l>
+               </lg>
+               <lg>
+                  <l>No, no, deare ſiſter, thou haſt more reſpect</l>
+                  <l>Unto my caſe, then to my cares neglect,</l>
+                  <l>Thou wilt not ſo our ſiſter-hood betray;</l>
+                  <l>Nor doth thy ſafety ſtand with my decay.</l>
+               </lg>
+               <lg>
+                  <l>Our heavenly Father, in his tender care,</l>
+                  <l>Doth to his children like affection beare;</l>
+                  <l>And hath us ti'd by his moſt ſacred lawes,</l>
+                  <l>We one ſhould venture in anothers cauſe.</l>
+                  <l>But I have ſin'd, tis true, but I repent,</l>
+                  <l>And teares have vertue to diſſolve a flint.</l>
+                  <pb n="2" facs="tcp:117553:4"/>
+                  <l>But teares diſtild from tender childrens eyes,</l>
+                  <l>They ſtir the fountaine where compaſſion lies.</l>
+                  <l>God ſuch affection to his children beares,</l>
+                  <l>That, out of queſtion, he bewayles their teares;</l>
+                  <l>And in his time, will alſo ſtill their cries,</l>
+                  <l>And grant their ſuits, and wipe their watery eyes.</l>
+               </lg>
+               <lg>
+                  <l>But in his wiſedome, he for us thinks meet,</l>
+                  <l>We ſhould have heere much bitter with our ſweet:</l>
+                  <l>His grapes muſt be the moſt exactly preſt,</l>
+                  <l>His wheat muſt be with greateſt labour dreſt:</l>
+                  <l>His Dove muſt live where Ravens and Vultures flie:</l>
+                  <l>His Lambs muſt feed where Wolves in covert lie:</l>
+                  <l>His Lillies muſt amongſt the thiſtles grow:</l>
+                  <l>His Roſe of Sharon, with the briers blow:</l>
+                  <l>Iſhmael and Iſaac muſt be kept alive;</l>
+                  <l>Eſau and Jacob muſt together ſtrive.</l>
+               </lg>
+               <lg>
+                  <l>And therefore it is policy divine,</l>
+                  <l>That Iſaac ſhould with Iſrael combine</l>
+                  <l>And be united in a mutuall band,</l>
+                  <l>Who have ſuch potent forces to withſtand.</l>
+               </lg>
+               <lg>
+                  <l>Beſides, our concord and our mutuall care,</l>
+                  <l>They are the garments we are bound to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>By Heavens injunction, that we may thereby</l>
+                  <l>Appeare we doe belong to the moſt High:</l>
+                  <l>Whoſe children heere are clad in peace and love.</l>
+                  <l>To make them fit to dwell with him above,</l>
+                  <l>Where faith, and hope, and patience ſhall ſurceaſe,</l>
+                  <l>But love, and peace, and unity increaſe.</l>
+               </lg>
+               <lg>
+                  <l>Faith, hope, and patience, are our we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pe no heere;</l>
+                  <l>But Love the ſpirit that gives life and cheere.</l>
+                  <l>And we ſhall fayle in all our other parts,</l>
+                  <l>Unleſſe that ſacred fire enf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame our hearts.</l>
+               </lg>
+               <lg>
+                  <l>But wherefore, Siſter, ſhould I goe about</l>
+                  <l>To bring thy love and care of me in doubt?</l>
+                  <l>When as I ſee thy love is ſo divine,</l>
+                  <l>Thou canſt not from that principall decline.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="3" facs="tcp:117553:4"/>
+               <head>To the Parliament of England.</head>
+               <lg>
+                  <l>AND You, whom God, who paſſeth all ſelectors,</l>
+                  <l>Hath made his choice of to be our protectors,</l>
+                  <l>To labour to defend us by your Lawes,</l>
+                  <l>Who have beſides, ſome intreſt in our cauſe.</l>
+                  <l>I bleſſe the Heavens that you have heard our cries</l>
+                  <l>Which have beene earneſt with you for ſupplies:</l>
+                  <l>And out of ſacred ſympathizing care,</l>
+                  <l>Have tooke in hand our low eſtate to rear,</l>
+                  <l>And ſtill are acting, and in counſell ſit</l>
+                  <l>To adde more comfort to our cauſes yet;</l>
+                  <l>Like brave and Chriſtian Senators in truſt,</l>
+                  <l>That feare no danger in a cauſe ſo juſt.</l>
+                  <l>Moſt brave reſolve, ride on and proſper ſtill,</l>
+                  <l>And what you have ſo well begun, fulfill:</l>
+                  <l>No doubt, but God, who ſet you ſuch a hard</l>
+                  <l>And tedious taske, hath ſet out your reward,</l>
+                  <l>And will beſtow it on you, if not heere,</l>
+                  <l>Yet when it ſhall to all the world appeare.</l>
+               </lg>
+               <lg>
+                  <l>Indeed, tis true, your weighty labours call</l>
+                  <l>For great rewards, which yet have beene but ſmall;</l>
+                  <l>Unleſſe reproachfull language and diſdaine,</l>
+                  <l>With deadly hatred, may be counted gaine:</l>
+                  <l>For this from millions hath beene all your pay,</l>
+                  <l>Unleſſe what force from ſuch hath fetcht away.</l>
+                  <l>Whoſe tongues envenom'd with malignant ſpight</l>
+                  <l>Have breath'd out vapours to obſcure your light;</l>
+                  <l>Infuſing into fooliſh peoples braines,</l>
+                  <l>That ſtead of freedome, you procure their chaines.</l>
+               </lg>
+               <lg>
+                  <l>Theſe, and too many ſuch like ſcandals baſe,</l>
+                  <l>Have vented beene, to further your diſgrace,</l>
+                  <l>By ſuch as have beene enemies, and ſtood</l>
+                  <l>Againſt the progreſſe of all Chriſtian good.</l>
+               </lg>
+               <pb n="2" facs="tcp:117553:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:117553:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <lg>
+                  <pb n="4" facs="tcp:117553:6"/>
+                  <l>Nay theſe reproches have ſo publique bin,</l>
+                  <l>And ſo inticing to ſuſpect herein,</l>
+                  <l>That many Chriſtians, and good Chriſtians ſome,</l>
+                  <l>Have ſo ſuſpitious by this meanes become,</l>
+                  <l>As if they had deluded bin, becauſe</l>
+                  <l>Their expectation could not brooke a pauſe,</l>
+                  <l>And wait with patience for thoſe things which will</l>
+                  <l>Be worth a wonder, if an age fulfill.</l>
+               </lg>
+               <lg>
+                  <l>Nay in this nature, I my ſelfe have bin,</l>
+                  <l>Too much forgetfull; pardon me therein;</l>
+                  <l>Poore wretch, becauſe that in my ſtate of griefe,</l>
+                  <l>I had not from you, as I wiſh'd; reliefe:</l>
+                  <l>But, notwithſtanding many ſpeeches faire,</l>
+                  <l>I ſtill lay under notions of diſpaire;</l>
+                  <l>I grew impatient, and was much inclin'd</l>
+                  <l>To many perturbations in my mind:</l>
+               </lg>
+               <lg>
+                  <l>One while reſolving that you were my friends,</l>
+                  <l>And would declare unto no other ends,</l>
+                  <l>But loo'd upon me with a melting eye,</l>
+                  <l>And were reſolv'd that I ſhould have ſupply,</l>
+                  <l>And to my comfort would your ſelves inlarge,</l>
+                  <l>Both out of pitty, and your ſpeciall charge.</l>
+               </lg>
+               <lg>
+                  <l>Another while theſe hopes of mine were ſhaken.</l>
+                  <l>And I begun to think my ſelfe miſtaken;</l>
+                  <l>And that you did not, as I hop'd, reſpect me,</l>
+                  <l>But either did delude me, or neglect me;</l>
+                  <l>And that the voice of people in this kind,</l>
+                  <l>So common, was not all malignant winde.</l>
+               </lg>
+               <lg>
+                  <l>Thus like the Phoenix, feeding on the ayre,</l>
+                  <l>'Twixt heaven and earth, twixt hoping and diſpair;</l>
+                  <l>My thoughts were reſtles, and my time was ſpent</l>
+                  <l>In various muſing upon the event.</l>
+               </lg>
+               <lg>
+                  <l>When I conſider'd what you had begun,</l>
+                  <l>And had already for my comfort done,</l>
+                  <l>Together with your promiſed ſupplies.</l>
+                  <l>My heart got comfort, and my hopes did riſe;</l>
+                  <pb n="5" facs="tcp:117553:6"/>
+                  <l>And hourly look'd you ſhould my ayd renew</l>
+                  <l>By every wind that from your confines blew.</l>
+               </lg>
+               <lg>
+                  <l>But when, alas, I look'd, and look'd again;</l>
+                  <l>And yet at laſt I ſaw I look'd in vain:</l>
+                  <l>No colours for me on my coaſt diſplayd,</l>
+                  <l>But windes and tides came empty ſtill of ayd.</l>
+               </lg>
+               <lg>
+                  <l>Whiles what I had already did abate,</l>
+                  <l>Through the increaſe of ſuch as do me hate,</l>
+                  <l>Who ſtill perſiſting, and my life purſuing,</l>
+                  <l>With Oathes combining to effect my ruine.</l>
+                  <l>My heart oft fainted, and my fears got ground,</l>
+                  <l>And ſometimes caſt me into ſuch a ſwound,</l>
+                  <l>That I did almoſt all beliefe refrain</l>
+                  <l>Of ever ſeeing good day here again,</l>
+                  <l>And that it was but truſting to a reed,</l>
+                  <l>To wait for help of mortall men at need,</l>
+                  <l>Whoſe ſtrength was like their promiſes, but fraile,</l>
+                  <l>And at moſt need, moſt likely then to faile,</l>
+               </lg>
+               <lg>
+                  <l>Thus like a Turtle mourning for her mate,</l>
+                  <l>Or like an Orphan in a helpleſſe ſtate:</l>
+                  <l>Or like a Captive in a Tyrants hand:</l>
+                  <l>Or like a Virgin in a Bruitiſh Land:</l>
+                  <l>In forced ſilence, with my face obſcur'd,</l>
+                  <l>Through tears diſtill'd, and griping woes indur'd,</l>
+                  <l>My life hath long time in ſad diſcontent,</l>
+                  <l>And fears, and cares, both night and day bin ſpent.</l>
+               </lg>
+               <lg>
+                  <l>Thus, worthy Patriots paſſion hath bin ſtrong,</l>
+                  <l>And caus'd me ſometimes to conceive you wrong,</l>
+                  <l>And look upon you with a frowning brow,</l>
+                  <l>Neglecting what I had more cauſe to know,</l>
+                  <l>Which were mine owne infirmities, my ſin,</l>
+                  <l>In viewing which I have too partiall bin,</l>
+                  <l>When under heavens correction for the ſame,</l>
+                  <l>I layd on others (not my ſelfe) the blame.</l>
+                  <l>Nor did I duly, as indeed I ought,</l>
+                  <l>Regard the task wherein at home you wrought;</l>
+                  <pb n="6" facs="tcp:117553:7"/>
+                  <l>How hard it was, how difficult, and vaſt,</l>
+                  <l>And through what care and dangers muſt be paſt;</l>
+                  <l>How many hills and mountaines leveld be,</l>
+                  <l>Before you could have paſſage unto me.</l>
+               </lg>
+               <lg>
+                  <l>Beſides, my elder Siſter in your hand</l>
+                  <l>Muſt be ſecur'd, before you tooke in hand</l>
+                  <l>To ſtate the yonger in her freedomes fit,</l>
+                  <l>Which would another tedious worke beget.</l>
+               </lg>
+               <lg>
+                  <l>In theſe reſpects I was, indeed, too blinde,</l>
+                  <l>The wofull ſenſe of preſent griefe of minde,</l>
+                  <l>So far my ſenſes, and my ſoule oppreſt,</l>
+                  <l>That I thought little of inſuing reſt.</l>
+               </lg>
+               <lg>
+                  <l>But you, whoſe judgements are p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ofound and wiſe,</l>
+                  <l>And foreſee dangers, you have cleerd my eyes,</l>
+                  <l>And made me ſee and ſenſible in fine,</l>
+                  <l>That you did never pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>poſe to decline</l>
+                  <l>Or ſlight my cauſe, but only were with-held,</l>
+                  <l>Or by a ſtrong neceſſity compeld</l>
+                  <l>To reſt content, till Heavens ſhould permit</l>
+                  <l>Both time and opportunity moſt fit.</l>
+               </lg>
+               <lg>
+                  <l>But now ſo ſoone as that eternall hand,</l>
+                  <l>Which turnes and orders all things at command,</l>
+                  <l>Hath ſet his wheele of providence ſome ſtay</l>
+                  <l>Within that Nation where you doe beare ſway,</l>
+                  <l>You have, unto your everlaſting fame,</l>
+                  <l>To my rejoycing, and unto the ſhame</l>
+                  <l>Of ſuch as have moſt wretchedly bely'd you,</l>
+                  <l>Aſſign'd me, by that providence that guide you,</l>
+                  <l>So brave an Army, ſuch a ſtrong ſupply,</l>
+                  <l>To ayd your part heere, and my cauſe to try,</l>
+                  <l>That if brave Worthies; heere may be no want</l>
+                  <l>Of thoſe ſupplies you have beene pleas'd to grant,</l>
+                  <l>I doubt not but my cruell foes ere long</l>
+                  <l>Will prove as weake as ever they were ſtrong,</l>
+                  <l>And flie as faſt, and faſter out of fight,</l>
+                  <l>As ever they did gather and unite.</l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:117553:7"/>
+                  <l>For though the Heavens have us'd them as a rod,</l>
+                  <l>Yet in their hearts, they fighting againſt God,</l>
+                  <l>He hearing his afflicted ones complaine,</l>
+                  <l>Will caſt his tod out of his hand againe,</l>
+                  <l>And make it knowne his children are belov'd,</l>
+                  <l>Though by the wicked, for their good, reprov'd.</l>
+               </lg>
+               <lg>
+                  <l>This is moſt certaine, therefore you that have</l>
+                  <l>So kindly ſent to rayſe me from the Grave,</l>
+                  <l>And give me life and freedome, once againe,</l>
+                  <l>In ſpite of all my enemies diſdaine;</l>
+                  <l>I bleſſe you for it, and beſeech you ſtill</l>
+                  <l>Perſiſt therein, and now the worke fulfill.</l>
+                  <l>And let not ſuch impediments prevent,</l>
+                  <l>As ſpring from meere ſiniſter diſcontent;</l>
+                  <l>But let the dread of the divine diſpleaſure</l>
+                  <l>Which is concern'd heerein in ſuch a meaſure,</l>
+                  <l>Exalt your thoughts above ſuch triviall cauſes,</l>
+                  <l>As may incite you unto needleſſe pauſes.</l>
+               </lg>
+               <lg>
+                  <l>That God, whoſe hand did ever ſo appeare</l>
+                  <l>To ayd at home, will not be abſent heere:</l>
+                  <l>Your caſe is ſtill the ſame it was before,</l>
+                  <l>And your engagements equall, if not more.</l>
+               </lg>
+               <lg>
+                  <l>What though your foes be numerous? alas,</l>
+                  <l>Heavens, by your hands, bring miracles to paſſe:</l>
+                  <l>And though the worke you have to overcome.</l>
+                  <l>Doth threat to ſhake the very walls of Rome,</l>
+                  <l>And ſeems a Writ of Priviledge now hurld</l>
+                  <l>Amongſt the Saints throughout the Chriſtian world;</l>
+                  <l>Yet feare not, tis not multitudes nor art,</l>
+                  <l>Can rout that ſide, with whom the Heavens take part.</l>
+               </lg>
+               <lg>
+                  <l>Let not your hearts then, nor your hands decline,</l>
+                  <l>That worke ſhall proſper which is Heavens deſigne:</l>
+                  <l>You have a warrant that will beare you out</l>
+                  <l>In any Chriſtian worke you goe about;</l>
+                  <l>Eſpecially that worke above the reſt,</l>
+                  <l>Suppreſſing of the Antichriſtian beaſt.</l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="tcp:117553:8"/>
+                  <l>And you, whoſe wiſedomes have ſo well beene try'd</l>
+                  <l>In circumventing of this man of Pride,</l>
+                  <l>You having courage, need not counſell'd be</l>
+                  <l>Which way to act to ſet me ſooneſt free.</l>
+               </lg>
+               <lg>
+                  <l>Yet, out of feeling of my former woes,</l>
+                  <l>Admit me leave to ſhew what I ſuppoſe</l>
+                  <l>Hath beene a ſpeciall or the maſter plot,</l>
+                  <l>Whereby the Papiſts heere ſuch part have got.</l>
+               </lg>
+               <lg>
+                  <l>The watchfull ſouldier that doth centre keepe,</l>
+                  <l>When foes are waking, will not be aſleepe:</l>
+                  <l>The skilfull boatſman that would make to ſhore,</l>
+                  <l>The windes not ſerving, plies his Oares the more:</l>
+                  <l>The Garden-dreſſer, that ſowes tender ſeeds,</l>
+                  <l>Takes the more labour to prevent the Weeds:</l>
+                  <l>The prudent Husband that hath Corne to ſow</l>
+                  <l>On grounds are doubtfull, the more ſeed doth throw;</l>
+                  <l>And when with care he hath beſtowd his coſt,</l>
+                  <l>He ſtill doth labour that it be not loſt.</l>
+               </lg>
+               <lg>
+                  <l>Even ſo, this many an unhappy yeare,</l>
+                  <l>The Romiſh ſeeds men, Seminaries heere</l>
+                  <l>Have beene moſt active, diligent, preciſe,</l>
+                  <l>By art and labour, what they could deviſe</l>
+                  <l>To ſow this Land with their corrupted graines,</l>
+                  <l>And through their ſubtle and unceſſant paines,</l>
+                  <l>This worke hath ſo far proſperd in their hands,</l>
+                  <l>That crops are plenteous in the very ſands.</l>
+               </lg>
+               <lg>
+                  <l>But, to the ſcandall of the Engliſh care,</l>
+                  <l>Good ſeeds men in this Nation have been rare,</l>
+                  <l>And that amongſt the Engliſh too, a ſhame</l>
+                  <l>That Engliſh Chriſtians, who deſire the fame,</l>
+                  <l>Of the Profeſſors of the truth indeed,</l>
+                  <l>Should take ſo little paines to ſow good ſeed;</l>
+                  <l>For want whereof ſo many grounds lie waſt,</l>
+                  <l>So many ſoules are barren, or at leaſt,</l>
+                  <l>Let lie, as Land that hath on purpoſe been</l>
+                  <l>Deſignd the foe, to ſow his tares therein.</l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:117553:8"/>
+                  <l>Nor lyes this blemiſh only here, no doubt,</l>
+                  <l>But partly upon ſuch as ſent theſe out;</l>
+                  <l>Thoſe Pilots that ſat at the helme to guide,</l>
+                  <l>They ſhould this Charge with more repect have ey'd;</l>
+                  <l>They ſhould as well have took the work in hand</l>
+                  <l>For to convert, as to ſubject this Land;</l>
+                  <l>Have ſought to ſave the precious ſoules of men,</l>
+                  <l>As well as ſeiſe the ſubſtance was therein.</l>
+               </lg>
+               <lg>
+                  <l>And queſtionleſſe, the want of this ſame care</l>
+                  <l>Of gaining ſoules, converting people here</l>
+                  <l>Hath mov'd that God who gave us this poſſeſſion,</l>
+                  <l>Thus now to bring our holding it in queſtion.</l>
+               </lg>
+               <lg>
+                  <l>But herein you that now are at the ſterne,</l>
+                  <l>I meane you not, this doth you not concerne:</l>
+                  <l>This fault is ancient, theſe are paſſing by's,</l>
+                  <l>Or doors left ope before you had the keys.</l>
+               </lg>
+               <lg>
+                  <l>But now you are in truſt in like condition,</l>
+                  <l>Your care already may prevent ſuſpition;</l>
+                  <l>That when you have poſſeſſion in your hand</l>
+                  <l>Of this rebellious, and revolting Land,</l>
+                  <l>You will proceed in what you have begun,</l>
+                  <l>And no good action ſhall be left undone,</l>
+                  <l>That heavens agreeing with your reſolution,</l>
+                  <l>May by your means be put in execution.</l>
+               </lg>
+               <lg>
+                  <l>And in eſpeciall that your care will be</l>
+                  <l>So far extended in reſpect of me,</l>
+                  <l>That you will uſe all diligence and ſpeed</l>
+                  <l>To ſow this Land with uncorrupted ſeed;</l>
+                  <l>Will plant a plentious Miniſtry herein,</l>
+                  <l>And far more faithfull then before hath bin,</l>
+                  <l>That every cornet of this continent</l>
+                  <l>May have a watchman from your confines ſent.</l>
+               </lg>
+               <lg>
+                  <l>Or that ſome happy nurſery of wits</l>
+                  <l>May here be founded, as indeed beſits;</l>
+                  <l>From whence, as from a ſacred foord, may flow,</l>
+                  <l>Such ſtreames of knowledge, and ſuch ſeed to ſow:</l>
+                  <pb n="10" facs="tcp:117553:9"/>
+                  <l>This voyd, or rather this corrupted Iſle,</l>
+                  <l>That it in time may prove a fruitfull ſoyle,</l>
+                  <l>Or ſecond <hi>Canaan,</hi> where may ſafely dwell,</l>
+                  <l>The ſeed of <hi>Abraham,</hi> ſonnes of Iſraell</l>
+                  <l>Without diſturbance by the native part,</l>
+                  <l>The ſonnes of <hi>Belial,</hi> or the Romiſh art.</l>
+               </lg>
+               <lg>
+                  <l>This famous Founders, I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</l>
+                  <l>If <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>vens again ſhall give you here the d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y;</l>
+                  <l>L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in a pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nteous Miniſtry, and ſound</l>
+                  <l>In lif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd Doctrine pious, and profound,</l>
+                  <l>D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſſenting not in judgement, as of lat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>Conſiſts the ſafety both of Church and St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te,</l>
+               </lg>
+               <lg>
+                  <l>And when an able Miniſtry is plant<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</l>
+                  <l>As it is ſit ſuch maintenance be granted,</l>
+                  <l>As may both keep their ſpirits up from filling,</l>
+                  <l>And adde a glory to their ſacred calling:</l>
+                  <l>So it is needfull, on the other ſide:</l>
+                  <l>That it relates not to exceſſe, or pride.</l>
+               </lg>
+               <lg>
+                  <l>For what eſpecially but the deſire,</l>
+                  <l>And avaritious longing to aſpire,</l>
+                  <l>And be above all moderated ſcope,</l>
+                  <l>Did firſt incite, and now hath ſet the Pope</l>
+                  <l>Upon the head of Emperours and Kings,</l>
+                  <l>Yea climbes above all ſublunary things?</l>
+               </lg>
+               <lg>
+                  <l>But you that do theſe weighty cauſes pond<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r,</l>
+                  <l>And whoſe eſpeciall charge th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y do lye under;</l>
+                  <l>I need not queſtion that you will be juſt,</l>
+                  <l>And wiſe, and watchfull in your charge in truſt,</l>
+                  <l>Not onely in relation to that hand</l>
+                  <l>That made you great, and put you in command;</l>
+                  <l>But alſo in a ſerious reſpect,</l>
+                  <l>So many eyes upon your acts reflect,</l>
+                  <l>That almoſt all the Chriſtians of this age</l>
+                  <l>Are gazet on the Actions of your ſtage;</l>
+                  <l>And laſtly in regard unto the cry,</l>
+                  <l>My elder ſiſter, in your armes, and I</l>
+                  <pb n="11" facs="tcp:117553:9"/>
+                  <l>Within your truſt, upon our knees do make,</l>
+                  <l>That you will not our caſe in hand forſake,</l>
+                  <l>But ſpeed and proſecute it in that kinde</l>
+                  <l>And bleſſed manner that you have deſign'd.</l>
+               </lg>
+               <lg>
+                  <l>And that diviſion, that ſame bane of Peace,</l>
+                  <l>And foe to vertue, do not make you ceaſe</l>
+                  <l>That work you have begun, and ſo far wrought</l>
+                  <l>Untill it be unto perfection brought.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To His Excellency the Lord <hi>FAIRFAX.</hi>
+               </head>
+               <lg>
+                  <l>MOſt Noble Champion, Englands chief Commander,</l>
+                  <l>Who in the tedious dangerous <hi>Meander</hi>
+                  </l>
+                  <l>Of Englands winding, waving, deſperate waies,</l>
+                  <l>In wars inteſtine, have got through with praiſe;</l>
+                  <l>And brought thoſe ſwelling, raging, roaring Seas,</l>
+                  <l>Through Gods aſſiſtance to a calme, and peace.</l>
+               </lg>
+               <lg>
+                  <l>For which your Kingdome, and therein my ſiſter,</l>
+                  <l>That through your labours, God hath late ſo bleſt her,</l>
+                  <l>Are bound to write your name in gold ſo pure,</l>
+                  <l>That time, nor envy, may the ſame obſcure;</l>
+                  <l>But after ages may ſo happy be,</l>
+                  <l>To read your worth, which we are bleſt to ſee.</l>
+               </lg>
+               <lg>
+                  <l>And now you have thoſe craggy mountaines paſt,</l>
+                  <l>And gain'd a valley, well ſecur'd at laſt,</l>
+                  <l>Whiles friends at houſe are ſinging your deſerts,</l>
+                  <l>Your care is how to ſuccour other partes.</l>
+               </lg>
+               <lg>
+                  <l>A truly worthy Generall indeed,</l>
+                  <l>Whoſe actions are ſo generous at need,</l>
+                  <pb n="12" facs="tcp:117553:10"/>
+                  <l>That no good motion can have your deniall.</l>
+                  <l>To ayd where Chriſtian quarrels are in triall.</l>
+               </lg>
+               <lg>
+                  <l>Of which brave Warrier I have cauſe of boaſts,</l>
+                  <l>Or c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſe to bleſſe you, and the God of hoſtes,</l>
+                  <l>Who in my g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eat nec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſity and gri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe,</l>
+                  <l>Have out of pitty thought o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> my reliefe;</l>
+                  <l>That I who long time have been forc'd to ſhifts,</l>
+                  <l>And d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iven for ſafety to the rocks and clifts,</l>
+                  <l>Am now in hope I ſhall ere long diſcloſe,</l>
+                  <l>And ſhew my ſelfe in preſence of my foes.</l>
+               </lg>
+               <lg>
+                  <l>Your foes at home are forced now to ſooth,</l>
+                  <l>And out of fear do give you language ſmooth,</l>
+                  <l>Diſſembling in your preſence ſugred Notes,</l>
+                  <l>Hiding like Aſpes, the poyſon in their throates;</l>
+                  <l>Which in your abſence they are bold to v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt</l>
+                  <l>With ſecret friends, to your diſparagement;</l>
+                  <l>And if they could advantage finde, and place,</l>
+                  <l>Are ready yet to ſpit it in your face.</l>
+               </lg>
+               <lg>
+                  <l>Whiles ſuch as are your foes abroad, no doubt,</l>
+                  <l>In your diſgrace are ready to ſpeak out;</l>
+                  <l>And do proclaime their malice, and invite</l>
+                  <l>All others they confide in to unite;</l>
+                  <l>That it concernes you to have <hi>Argus</hi> ey<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</l>
+                  <l>To foreſee dangers, and their plots ſurprize.</l>
+                  <l>But heavens, upon the other ſide I know</l>
+                  <l>Do ayd you, and the better part below</l>
+                  <l>Are on your ſide, and do eſteem you dear,</l>
+                  <l>And out of doubt, are ready to appear</l>
+                  <l>With help, and hearts united to aſſiſt,</l>
+                  <l>And take your part, in whom they have bin bleſt.</l>
+               </lg>
+               <lg>
+                  <l>And therefore fear not ſuch as ſhall oppoſe;</l>
+                  <l>You yet have made them all ſubdued foes</l>
+                  <l>That have adventur'd to reſiſt your hand,</l>
+                  <l>And out of queſtion ſhall do whiles you ſtand</l>
+                  <l>In the defence of Truth and right, although</l>
+                  <l>The world ſhould joyn to work your overthrow.</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="tcp:117553:10"/>
+                  <l>And for that ſtrength you have aſſign'd to me,</l>
+                  <l>Your force thereby ſhall not enfeebled be,</l>
+                  <l>The heavens herein will make ſupply no doubt,</l>
+                  <l>Whoſe caſe to aid you, ſend a party out,</l>
+                  <l>For God himſelf doth ſtill aſſiſtance lend</l>
+                  <l>To aid all ſuch as in his caſe contend.</l>
+               </lg>
+               <lg>
+                  <l>And what brave <hi>Joſhua,</hi> can be judg'd hath bin</l>
+                  <l>The cauſe that ſince you did your task begin</l>
+                  <l>You have ſo proſper'd, and atchiev'd ſuch fame</l>
+                  <l>That Europe wonders, and admires the ſame?</l>
+                  <l>But onely that the active hand of heaven,</l>
+                  <l>By which ſucceſſe and victories are given:</l>
+                  <l>Hath ſtill gone with you in each enterpriſe</l>
+                  <l>In an eſpeciall and moſt pow'rfull wiſe.</l>
+               </lg>
+               <lg>
+                  <l>To withſtand which in any time of trouble,</l>
+                  <l>The arm of fleſh is but like ſtraw, or ſtubble</l>
+                  <l>To withſtand fire; or like a drop of rain</l>
+                  <l>Let fall to ſtill the raging of the main.</l>
+               </lg>
+               <lg>
+                  <l>To order battells, and give victory</l>
+                  <l>Is the prerogative of the moſt high,</l>
+                  <l>To ſhew his greatneſſe, who is ſtrength indeed;</l>
+                  <l>That ſo no fleſh ſhould glory in their reed.</l>
+               </lg>
+               <lg>
+                  <l>Onely amongſt men where he doth affect,</l>
+                  <l>As inſtrumentall he doth ſome ſelect</l>
+                  <l>To fight his battells, and infuſeth skill,</l>
+                  <l>And care, and force to execute his will.</l>
+                  <l>Which in your perſon doth appeare at large,</l>
+                  <l>He having granted to your noble charge</l>
+                  <l>The greateſt work for latter times, that yet</l>
+                  <l>The heavens did to a humane hand commit:</l>
+                  <l>And in the ſame hath hitherto no leſſe</l>
+                  <l>Renown'd you with miraculous ſucceſſe.</l>
+               </lg>
+               <lg>
+                  <l>I long indeed have ſighed for relief,</l>
+                  <l>And fill'd the aire with ecchoes of my grief,</l>
+                  <l>In hope the winds would on my woes ſo ſmile</l>
+                  <l>To beare the ſenſe thereof into your Iſle.</l>
+                  <pb n="14" facs="tcp:117553:11"/>
+                  <l>But long I look'd for what I long'd to heare,</l>
+                  <l>A ſweet return of what the windes ſhould beare,</l>
+                  <l>A happy anſwer of my heavy cry,</l>
+                  <l>Before my wofull wants could have ſupply.</l>
+               </lg>
+               <lg>
+                  <l>But now I ſee and to my comfort finde</l>
+                  <l>The cauſe my ſuits have been ſo long declin'd,</l>
+                  <l>Was not for want of pity in the reſt,</l>
+                  <l>Nor want of courage in your noble breaſt,</l>
+                  <l>But want of opportunity to ſend</l>
+                  <l>Such ayd and comfort as you did intend.</l>
+               </lg>
+               <lg>
+                  <l>Let glory then eternallize your fame,</l>
+                  <l>Whoſe courage, whiles the cauſe remains the ſame,</l>
+                  <l>Doth conſtant hold, and tis not diſtance, fate,</l>
+                  <l>Nor fear, nor danger, can the ſame abate.</l>
+               </lg>
+               <lg>
+                  <l>Proceed and proſper then as you have done;</l>
+                  <l>Here is another conqueſt to be won,</l>
+                  <l>Which heaven I hope which have the ſame in birth,</l>
+                  <l>Will adde unto the Trophies of your worth.</l>
+               </lg>
+               <lg>
+                  <l>What though my ſtate hath been full bad? you know</l>
+                  <l>The caſe of God can never be too low</l>
+                  <l>For him to raiſe it, but the lower caſt,</l>
+                  <l>The higher he doth raiſe it at the laſt.</l>
+               </lg>
+               <lg>
+                  <l>B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſides, the wiſedome of our Maker waits</l>
+                  <l>To t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke a ſweet advantage of our States,</l>
+                  <l>And then his help and comforts do explain,</l>
+                  <l>When help and hopes with men are counted vain.</l>
+               </lg>
+               <lg>
+                  <l>That ſo the world may ſee his working hand;</l>
+                  <l>His foes thereat the more amazed ſtand:</l>
+                  <l>And thoſe whoſe ſtate ſo deſperate he raiſes,</l>
+                  <l>May be engag'd unto his greater praiſes.</l>
+               </lg>
+               <lg>
+                  <l>Thus God proceedeth often, as full well</l>
+                  <l>You by experience of the ſame can tell;</l>
+                  <l>Which is enough for ever to incline</l>
+                  <l>Your dauntles ſpirit to a juſt deſigne,</l>
+                  <l>How hard ſo ere it be to undergo,</l>
+                  <l>If God ſhall pleaſe to call you thereunto.</l>
+               </lg>
+               <lg>
+                  <pb n="15" facs="tcp:117553:11"/>
+                  <l>Now in aſſurance of the ſame I ſtand,</l>
+                  <l>Attending on Gods pleaſure in your hand,</l>
+                  <l>And in ſubmiſſion to the ſame ſhall reſt,</l>
+                  <l>Preſenting of my moſt intire requeſt</l>
+                  <l>Unto the heavens, that they your part may take,</l>
+                  <l>And favour all that ſight for ZIONS ſake.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To the Engliſh Commanders and Souldiers aſsign<g ref="char:EOLhyphen"/>ed forthe reliefe of <hi>Ireland.</hi>
+               </head>
+               <lg>
+                  <l>VVElcome that will come, noble friends indeed,</l>
+                  <l>That will vouchſafe a viſit where is need:</l>
+                  <l>The rich, tis true have many friends, but ſuch</l>
+                  <l>As do want riches, do want friends as much.</l>
+               </lg>
+               <lg>
+                  <l>But with you, Worthies, it is otherwiſe,</l>
+                  <l>You ſeem to grace where others do diſpiſe.</l>
+                  <l>Oh that I had but means unto my mind,</l>
+                  <l>To welcome you, and thoſe that are behind,</l>
+                  <l>That you might taſt my thankfulneſſe, and they</l>
+                  <l>Might heare thereof, and make no more delay!</l>
+               </lg>
+               <lg>
+                  <l>But though my hand be empty, I am poor,</l>
+                  <l>Yet there are riches plenty on my ſhoare:</l>
+                  <l>Such as have rob'd me, they have riches left</l>
+                  <l>They ſtole from me, to take which is no theft;</l>
+                  <l>And what is miſſing, tis but juſtice ſhown,</l>
+                  <l>If they make reſtitution of their own.</l>
+               </lg>
+               <lg>
+                  <l>Beſides this Iſland is a fruitfull field.</l>
+                  <l>Or pleaſant Garden which doth plenty yeld:</l>
+                  <l>The Sun, the Moon, the Stars conſenting be;</l>
+                  <l>The Elements do all therein agree.</l>
+               </lg>
+               <lg>
+                  <l>The fire is not predominating here;</l>
+                  <l>But cold and heat do moderate appear:</l>
+                  <l>The Ayre ſo fare an Antidote and pure,</l>
+                  <l>That nothing poyſonous can the ſame indure.</l>
+                  <pb n="16" facs="tcp:117553:12"/>
+                  <l>The water ſweet and pleaſant ſtreames abound,</l>
+                  <l>Where foules and fiſhes are in plenty found.</l>
+                  <l>The earth a Garden, from whoſe fatneſſe ſprings</l>
+                  <l>A bleſſed fullneſſe of terreſtriall things.</l>
+               </lg>
+               <lg>
+                  <l>Beſides theſe ſtrong inducements which invite</l>
+                  <l>In the reſpect of profit, and delight:</l>
+                  <l>You alſo have ſome int'reſt here, 'tis known,</l>
+                  <l>That you, in part, contend but for your own:</l>
+                  <l>Your own by conqueſt, and ſhould that be loſt</l>
+                  <l>Through want of care, which in atchieving coſt</l>
+                  <l>Your noble and renowned fathers dear,</l>
+                  <l>The price of blood, the work of many a year?</l>
+               </lg>
+               <lg>
+                  <l>Should that, I ſay, then, which bold fathers got</l>
+                  <l>Be loſt by children? Oh! it were a blot,</l>
+                  <l>A ſcar, a ſhame, a ſcandall to your deeds,</l>
+                  <l>That Englands Cedars ſhould become ſuch reeds,</l>
+                  <l>The off-ſpring of ſuch active, valiant, ſtrong,</l>
+                  <l>And conquering hands, ſhould put up ſuch a wrong:</l>
+                  <l>Beſides the loſſe; which is ſo great, that ſure,</l>
+                  <l>True Engliſh hearts will not the ſame indure,</l>
+                  <l>They will not have it in records to find,</l>
+                  <l>That Engliſh ſpirits can be ſo declin'd.</l>
+               </lg>
+               <lg>
+                  <l>But valiant Leaders, you whoſe acts declare</l>
+                  <l>That Engliſh hearts are ſtill without compare,</l>
+                  <l>And will not have your reputation ſtain'd,</l>
+                  <l>By loſing honour your forefathers gain'd;</l>
+                  <l>If you thus claim an intreſt in this Land,</l>
+                  <l>You have a greater prize then here in hand:</l>
+                  <l>And what more deeply doth ingage your fame</l>
+                  <l>Unto the proſecution of the ſame?</l>
+               </lg>
+               <lg>
+                  <l>Gods caſe is your caſe, as his inſtruments:</l>
+                  <l>And he in his eſpeciall providence,</l>
+                  <l>Hath call'd you hither, as it doth appeare,</l>
+                  <l>To fight the battells of Jehova here.</l>
+               </lg>
+               <lg>
+                  <l>His holy word, his worſhip, truth, and name,</l>
+                  <l>With all ſincere Profeſſors of the ſame.</l>
+                  <pb n="17" facs="tcp:117553:12"/>
+                  <l>Have here a long time perſecuted bin</l>
+                  <l>By Antichriſt that active man of ſin,</l>
+                  <l>And his adherents, who have here of late</l>
+                  <l>Prevail'd inſulted, ſeem'd predominate.</l>
+               </lg>
+               <lg>
+                  <l>But now I hope the heavy ſighes and grones,</l>
+                  <l>And cryes and teares of Gods afflicted ones;</l>
+                  <l>Together with the jealouſie and care,</l>
+                  <l>He doth unto his word, and worſhip beare,</l>
+                  <l>Hath wrought upon his clemency ſo far,</l>
+                  <l>That he intends to be at open war</l>
+                  <l>Againſt his, and my enemies, and yours,</l>
+                  <l>And will r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>prove them, and confound their powers.</l>
+               </lg>
+               <lg>
+                  <l>This God can do, and will do too, although</l>
+                  <l>The times and ſeaſons when we do not know,</l>
+                  <l>But when tis moſt unlikely in mans eye,</l>
+                  <l>'Tis then Gods uſuall opportunity.</l>
+               </lg>
+               <lg>
+                  <l>And why not now then, may not we conceit,</l>
+                  <l>When as our foes were got to ſuch a height?</l>
+                  <l>For my part I remaine undaunted ſtill,</l>
+                  <l>Becauſe I know God can do what he will,</l>
+               </lg>
+               <lg>
+                  <l>He now I hope will in his tender love,</l>
+                  <l>His power and wiſedome in this Land improve,</l>
+                  <l>In once more ſowing it with holy ſeed,</l>
+                  <l>His ſacred truths, and the moſt ſaving Creed;</l>
+                  <l>His worſhip, Sabbaths, Sacraments and Saints,</l>
+                  <l>In pureſt ſenſe, and without ſad reſtraints;</l>
+                  <l>And make this Kingdome (which hath been a cage</l>
+                  <l>Of unclean ſpirits, and a very ſtage</l>
+                  <l>For Antichriſt to Act upon at pleaſure,</l>
+                  <l>Too many years, and in too great a meaſure)</l>
+                  <l>To become now an holy Land, excelling</l>
+                  <l>In vertue, truth, and righteouſneſſe; a dwelling</l>
+                  <l>For God himſelfe, in holineſſe and grace,</l>
+                  <l>An earthly ZION for his Saints, a place</l>
+                  <l>Where I in peace, may henceforth ſit and ſing</l>
+                  <l>The holy praiſes of my heav'nly King.</l>
+               </lg>
+               <lg>
+                  <pb n="18" facs="tcp:117553:13"/>
+                  <l>Moſt glorious work! what heart that is upright,</l>
+                  <l>Can think upon the ſame without delight?</l>
+                  <l>Or yet what hand can cloſed up be found</l>
+                  <l>Againſt a work ſo pious, and renown'd?</l>
+               </lg>
+               <lg>
+                  <l>Sure you that are admitted to the ſame,</l>
+                  <l>It will for ever adde unto your fame,</l>
+                  <l>And if your hearts do anſwer this deſigne,</l>
+                  <l>Your works will ſurely render you divine.</l>
+                  <l>Brave and approv'd Commanders ther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> proceed,</l>
+                  <l>The caſe requires your diligence, and ſpeed.</l>
+                  <l>Your hearts did never fail you, and I t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſt,</l>
+                  <l>Your hands, your help will to your hearts be juſt.</l>
+                  <l>What though your foes be numerous or mad.</l>
+                  <l>And ſhall prove deſperate? yet their caſe is bad,</l>
+                  <l>And that which God doth, out of doubt deteſt,</l>
+                  <l>Which is enough to warrant you the beſt;</l>
+                  <l>For where, and onely where the heavens oppoſe</l>
+                  <l>That ſide proves ever the ſubdued foes.</l>
+                  <l>You have experience hereof and can tell</l>
+                  <l>Gods wonder working in this kind full well;</l>
+                  <l>Which cannot but your noble breaſts inſpire</l>
+                  <l>With ſuch a valiant reſolute deſire</l>
+                  <l>To take his part, who ſtill did ſuccour grant you,</l>
+                  <l>That fear nor force, nor danger now can dant you.</l>
+               </lg>
+               <lg>
+                  <l>But what need other arguments herein,</l>
+                  <l>Then the ſuppreſſing of the man of ſin?</l>
+                  <l>Who in this nation, and in other parts,</l>
+                  <l>The truths of God, and ſouls of men ſubverts.</l>
+               </lg>
+               <lg>
+                  <l>What can be more encouragement then this?</l>
+                  <l>No combate half ſo capable of bliſſe.</l>
+                  <l>The honour both of this world, and the fame</l>
+                  <l>Of that which is to come attends the ſame;</l>
+                  <l>Where ſuch as have been ſouldiers in the warres</l>
+                  <l>For God, and ſouls, ſhall ſhine above the ſtarres,</l>
+                  <l>And weare the crown of conquerours, more worth</l>
+                  <l>Then all the Crowns, and Diadems on earth.</l>
+               </lg>
+               <lg>
+                  <pb n="19" facs="tcp:117553:13"/>
+                  <l>Can you fear danger then in ſuch a ſtrife?</l>
+                  <l>In which to die, admi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> a better life?</l>
+                  <l>I truſt you cannot, nay by tryall know it.</l>
+                  <l>Your conſtant actions do directly ſhow it.</l>
+               </lg>
+               <lg>
+                  <l>Then, to plead further in this cauſe I need not,</l>
+                  <l>You ſo fear God, the face of men you dread not,</l>
+                  <l>That God who can, who hath, and ſure who will</l>
+                  <l>Whiles you ſtand for him ſtand up for you ſtill.</l>
+                  <l>And you the Souldiers under this command,</l>
+                  <l>Who are aſſigned to redeem this Land,</l>
+                  <l>And that indeed which is by oddes moſt deare,</l>
+                  <l>Profeſſion of the true Religion here:</l>
+                  <l>By rooting out of Popery, that ſpell</l>
+                  <l>Of Antichriſt, that active charm of hell.</l>
+                  <l>Wherewith this Kingdome is become inchanted;</l>
+                  <l>Nay moſt of Europe by this fury haunted.</l>
+               </lg>
+               <lg>
+                  <l>You ever have moſt willingly appear'd</l>
+                  <l>And reſolutions readily declar'd</l>
+                  <l>For the defence, and manfully to fight</l>
+                  <l>For true Religion, piety, and right:</l>
+                  <l>Here you may have your element for this,</l>
+                  <l>Of all things here, ſuch noble minds I miſſe:</l>
+                  <l>For true Religion here hath been diſdain'd,</l>
+                  <l>And Popery hath domineer'd and reign'd,</l>
+                  <l>And I that have inhabited this Iſle,</l>
+                  <l>Have been as baniſh'd, driv'n into exile.</l>
+               </lg>
+               <lg>
+                  <l>Conſider this, and out of care Divine,</l>
+                  <l>And pity to this ſad eſtate of mine;</l>
+                  <l>Together with the garlands you may weare</l>
+                  <l>If you perſiſt; but ſhame if you forbeare.</l>
+                  <l>And rouze your warlike ſpirits, and be ſeen</l>
+                  <l>In holy zeal, above malignant ſpleen,</l>
+                  <l>Or ſuperſtitious jealouſie, that fire;</l>
+                  <l>And make the world take notice and admire.</l>
+                  <l>That Jeſus Chriſt hath better ſouldiers far</l>
+                  <l>Then Antichriſt hath any in his war.</l>
+                  <pb n="20" facs="tcp:117553:14"/>
+                  <l>Beſides, you know that ſavage beaſt of Rome</l>
+                  <l>Is ſentenc'd by irrevocable doome,</l>
+                  <l>To be ſubjected, weaken and decline,</l>
+                  <l>And be a prey unto the Saints in fine,</l>
+                  <l>And Rome ſhall fall, and ſure God is not ſlack</l>
+                  <l>Concerning this; do you not heare it crack?</l>
+                  <l>Sure if your ears were opened aright,</l>
+                  <l>To heavens predictions in this thing, you might.</l>
+               </lg>
+               <lg>
+                  <l>Can you be without comfort then, or cold?</l>
+                  <l>Or will you not be reſolute and bold?</l>
+                  <l>In ſuch a quarrell as hath ſuch a warrant,</l>
+                  <l>As is in holy records ſo apparant?</l>
+               </lg>
+               <lg>
+                  <l>Yes, yes, brave Souldiers, theſe are ſure ſuch ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</l>
+                  <l>As will conſtraine you, make y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur ſpirits riſe,</l>
+                  <l>And ſtir your veines, and Chriſtian valiant hearts</l>
+                  <l>In this deſigne to ſhew your true deſerts.</l>
+               </lg>
+               <lg>
+                  <l>And ſtop the mouth of envy, and make known</l>
+                  <l>Thoſe fatall blaſts malignant breath hath blown</l>
+                  <l>Into your faces, are but out of ſpight.</l>
+                  <l>And falſe r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ports, which tell men that you ſight</l>
+                  <l>For neither faith, nor truth, nor to def<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd</l>
+                  <l>The true Religion, as you do pretend.</l>
+               </lg>
+               <lg>
+                  <l>But Chriſtian Souldiers, though theſe be ſome ſcars,</l>
+                  <l>Or ſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndalls vented to diſgrace you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wars;</l>
+                  <l>Yet I am hopefull, nay, am confident,</l>
+                  <l>That theſe were never heads of your intent,</l>
+                  <l>Nor ever ſhalbe: and indeed I tremble,</l>
+                  <l>To think you ſhould be thought ſo to diſſemble.</l>
+               </lg>
+               <lg>
+                  <l>Moreover had Gods caſe been h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er let fall,</l>
+                  <l>And I left helpleſſe now in hopeleſſe thrall,</l>
+                  <l>I had not o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly ſeem'd a ſad compliance</l>
+                  <l>With Antichriſt (whom God hath in defiance)</l>
+                  <l>But in the loſſe of this Land had be ſhown,</l>
+                  <l>The hazzard if not loſing of y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur owne.</l>
+               </lg>
+               <lg>
+                  <l>Tis time then to be ſtirring, and reſolv'd</l>
+                  <l>To quit this cloud wherein you were involv'd,</l>
+                  <pb n="21" facs="tcp:117553:14"/>
+                  <l>And make it truly to the world appeare,</l>
+                  <l>You are in all ſuch accuſations cleare,</l>
+                  <l>And that your hearts doe with your caſe comply,</l>
+                  <l>And ſo reſolved you will live and die.</l>
+               </lg>
+               <lg>
+                  <l>Tis time, I ſay, but not, I hope, too late,</l>
+                  <l>Though time delayd, yet not time out of date,</l>
+                  <l>But that you may recover all this loſſe,</l>
+                  <l>Yea make advantage of it, and ingroſſe</l>
+                  <l>The greater honour by your hotter fires</l>
+                  <l>Of Chriſtian zeale, to ſhew your juſt deſires.</l>
+                  <l>And pious hearts for peace of Church, and State;</l>
+                  <l>And that you do abominate, and hate</l>
+                  <l>All fatall inſurrection, mutinizing,</l>
+                  <l>Firſt heavens abuſe, of <hi>Lucifers</hi> deviſing;</l>
+                  <l>And ever ſince hath beene the overthrow</l>
+                  <l>Of all that practice in the ſame below.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Eliſha's</hi> ſervant was afraid, tis true,</l>
+                  <l>When as th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir foes were only in his view;</l>
+                  <l>But when the heavens had made his eye-ſight cleare,</l>
+                  <l>The ſtrongeſt pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t did on their ſide appeare.</l>
+               </lg>
+               <lg>
+                  <l>That part, indeed, is ſtrongeſt which is Gods,</l>
+                  <l>Although it ſeems the weakeſt part by oddes;</l>
+                  <l>Nay, God doth moſtly multitudes eſchew,</l>
+                  <l>To try his caſe, and chuſeth but a few;</l>
+                  <l>That ſo his greatneſſe may the more be knowne;</l>
+                  <l>And men not chalenge what is not their owne.</l>
+               </lg>
+               <lg>
+                  <l>Nay God can make his ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſles creatures ſtand</l>
+                  <l>His friends at need, his Army at command,</l>
+                  <l>Too great to be reſiſted, as is found</l>
+                  <l>In plaguing <hi>Pharoah,</hi> and his Army drown'd:</l>
+                  <l>The <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lemen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, the Sun, the Moone, the Stars</l>
+                  <l>Are all his hoſt to proſecute his wars.</l>
+               </lg>
+               <lg>
+                  <l>That tis, inde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d his clemency and love,</l>
+                  <l>To grace and honour men heerein, above</l>
+                  <l>His other creatur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, that he gives men art,</l>
+                  <l>And call them forth, as friends, to take his part,</l>
+               </lg>
+               <lg>
+                  <pb n="22" facs="tcp:117553:15"/>
+                  <l>When it is known he is ſufficient, ſtill,</l>
+                  <l>Without his creatures ayd to do his will;</l>
+                  <l>His Word is able in a trice to burſt</l>
+                  <l>All earthen veſſels, by it made at firſt.</l>
+               </lg>
+               <lg>
+                  <l>Oh! then, you men whom this great God hath choſe</l>
+                  <l>To take his part, as friends, againſt his foes;</l>
+                  <l>You cannot ſure be faint, or fearfull where</l>
+                  <l>'Tis thus confirm'd, you have no cauſe to fear.</l>
+               </lg>
+               <lg>
+                  <l>Or may you not be rather ſeemly proud,</l>
+                  <l>That you are to that dignity allow'd,</l>
+                  <l>To help the Lord againſt the Mighty? when</l>
+                  <l>The Lord indeed is only Mighty: men</l>
+                  <l>Are earth, wormes, or his earthen veſſels wrought,</l>
+                  <l>Which he can daſh in pieces with a thought.</l>
+               </lg>
+               <lg>
+                  <l>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſides brav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uldiers, if you could be faint,</l>
+                  <l>Or f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lſe, or fig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t but upon meer conſtraint,</l>
+                  <l>Or w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ich is worſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be diſolute, and rude;</l>
+                  <l>To Gods diſho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>our, and your ſhame, conclude,</l>
+                  <l>G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> would not own you, though he might imploy you:</l>
+                  <l>B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d a purpoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther to deſtroy you,</l>
+                  <l>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fend you or to give you part</l>
+                  <l>Of c<gap reason="illegible" resp="#MURP" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>ſt with him, who had not your heart:</l>
+                  <l>But wherefore ſhould I preſuppoſe or qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtion</l>
+                  <l>Such fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lings in you who have made profeſſion</l>
+                  <l>Of your ſincere, and Chriſtian-like intents,</l>
+                  <l>And there to given unanimous conſents?</l>
+               </lg>
+               <lg>
+                  <l>No, noble Warriers, Chriſtian Souldiers, know,</l>
+                  <l>I do you better eſtimation owe;</l>
+                  <l>I cannot conſtrue your intentions bad,</l>
+                  <l>Who ſo good Chriſtian diſcipline have had.</l>
+               </lg>
+               <lg>
+                  <l>Proceed, proceed, then doubt not of ſucceſſe;</l>
+                  <l>Your caſe in queſtion promiſeth no leſſe;</l>
+                  <l>God will not faile you, nor your ſpirits yield,</l>
+                  <l>Which are by God and Conſcience clear up held.</l>
+               </lg>
+               <lg>
+                  <l>As for ſupplyes, you need not fear delay:</l>
+                  <l>As for reward, Gods is the only pay:</l>
+                  <pb n="23" facs="tcp:117553:15"/>
+                  <l>His ſervice with the beſt ſupplyes abound:</l>
+                  <l>His Souldiers with the richeſt Garlands crown'd.</l>
+               </lg>
+               <lg>
+                  <l>And as for men, I dare preſume ſo far,</l>
+                  <l>That, where their purſes to your former war</l>
+                  <l>Were oft forc'd ope: they to reliefe of me,</l>
+                  <l>Now out of zeal and pity will be free;</l>
+                  <l>Their purſes, hands, and hearts to this deſigne</l>
+                  <l>Will freely ope, and joyfully incline:</l>
+                  <l>In which ſo fully is to be diſcern'd</l>
+                  <l>Both their owne ſafety, and Gods cauſe concern'd.</l>
+               </lg>
+               <lg>
+                  <l>Beſides, what here you, by your valour ſhown,</l>
+                  <l>Shall conquer, ſhall in part become your own;</l>
+                  <l>You ſhall not beat the ayre, or the winde;</l>
+                  <l>But booty pray and pay, are yours aſſign'd,</l>
+                  <l>That with the greater courage you maintain</l>
+                  <l>This enterprize, the more ſhall be your gain.</l>
+                  <l>Do then, oh do then your brave hearts expreſſe,</l>
+                  <l>As to your honour you declare no leſſe,</l>
+                  <l>And ſtop the mouth of malice, and compell</l>
+                  <l>Meer envy on your actions to ſpeak well.</l>
+               </lg>
+               <lg>
+                  <l>Whiles I, and all the Saints on earth ſhall pray</l>
+                  <l>That you may proſper, and our foes decay:</l>
+                  <l>That ZIONS ſide may have the upper hand,</l>
+                  <l>And Romes impoſtures be expel'd this Land.</l>
+               </lg>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
